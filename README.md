@@ -1,1 +1,1 @@
-# severity_detection
+# severity-detection
